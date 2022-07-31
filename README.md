@@ -44,6 +44,6 @@ Here are some ideas to get you started:
 
 ##
 
-![Snake animation](https://github.com/MarcosMFigueiredo/MarcosMFigueiredo/blob/output/main/.github/workflows/main.svg)
+![Snake animation](https://github.com/MarcosMFigueiredo/MarcosMFigueiredo/blob/output//github-contribution-grid-sanke.svg)
 
 
