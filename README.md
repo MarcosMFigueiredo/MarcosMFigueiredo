@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 -->
 
 ##
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcosMFigueiredo&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosMFigueiredo&layout=compact&show_icons=true&theme=dracula)](https://github.com/MarcosMFigueiredo/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcosMFigueiredo&show_icons=true&theme=dracula) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosMFigueiredo&layout=compact&show_icons=true&theme=dracula)](https://github.com/MarcosMFigueiredo/github-readme-stats)
+
 
 <div style"display: inline_block"><br>
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
