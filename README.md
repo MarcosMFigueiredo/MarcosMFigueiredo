@@ -6,7 +6,7 @@
 🏠- location = 'Patos, PB - Brazil'  
 📚- occupation = 'Student'  <br>
 🖥️ - studying = 'Computer Science, currently in 5rd period'  
-🎯 - focus = 'python, Java, JavaScript, HTML, CSS3'  
+🎯 - focus = 'python, Java'  
 
 <!--
 **MarcosMFigueiredo/MarcosMFigueiredo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -28,9 +28,6 @@ Here are some ideas to get you started:
 
 
 <div style"display: inline_block"><br>
-  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> 
   <img align="center" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 </div>
