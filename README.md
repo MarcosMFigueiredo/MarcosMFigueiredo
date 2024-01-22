@@ -2,11 +2,11 @@
 
 ##
 ✒️ - name = 'Marcos Figueiredo'  
-🧑🏽 - age = '20 years'  
+🧑🏽 - age = '21 years'  
 🏠- location = 'Patos, PB - Brazil'  
 📚- occupation = 'Student'  <br>
-🖥️ - studying = 'Computer Science, currently in 7rd period'  
-🎯 - focus = 'python, Java'  
+🖥️ - studying = 'Computer Science, currently in 8rd period'  
+🎯 - focus = 'python, JavaScript'  
 
 <!--
 **MarcosMFigueiredo/MarcosMFigueiredo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -41,7 +41,5 @@ Here are some ideas to get you started:
 </div>
 
 ##
-
-![Snake animation](https://github.com/MarcosMFigueiredo/MarcosMFigueiredo/blob/output/github-contribution-grid-snake.svg)
 
 
